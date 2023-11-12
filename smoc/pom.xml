@@ -7,7 +7,7 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.6.3</version>
     </parent>
-    <modelVersion>4.0.0</modelVersion>
+    <modelVersion>4.0.0 suevip1用户，看到请立刻联系我，qq 276760631@qq.com，或者删除你dcwlt的fork工程</modelVersion>
 
     <artifactId>com.smoc.cloud.smoc</artifactId>
     <description>smoc服务</description>
